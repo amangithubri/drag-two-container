@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    width: 920px;
+  }
+  
+  .salmon-color {
+    background: salmon;
+  }
+  
+  .lightgreen-color {
+    background: lightgreen;
+  }
+  
+  .lightskyblue-color {
+    background: lightskyblue;
+  }
+  
+  
+  .container-content {
+    display: flex;
+    margin: 10px;
+    min-width: 450px;
+    min-height: 250px;
+    background: whitesmoke;
+    border: 1px solid #CECECE;
+  }
+  
+  .container-card {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #CECECE;
+    margin: 10px
+  }
+  
+  
+  .card {
+    width: 100px;
+    height: 100px;
+    background: ivory;
+    border: 1px solid #CECECE;
+  }
